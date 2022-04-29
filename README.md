@@ -1,6 +1,7 @@
 # p1_computer_system
 
 # requisitos
+- docker 
 
 # Passo a passo
 
